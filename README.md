@@ -1,0 +1,1 @@
+Circle CI Image with node and awscli
